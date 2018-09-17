@@ -1,5 +1,8 @@
 # Understanding Blockchain
-This is the guide to learning the basic fundamentals of Blockchain development and understanding. 
+This is the guide to learning the basic fundamentals of Blockchain development. 
+
+This guide is devided into three main parts, "Blockchian Fundamentals", "Blockchain Development" and "Finance".
+Please feel free to add more content or add a short description.
 
 
 # Cryptography
@@ -15,7 +18,7 @@ https://www.youtube.com/watch?v=bBC-nXj3Ng4
 # Future of Blockchain and use cases
 https://www.youtube.com/watch?v=sDNN0uH2Z3o (You can skip the introductory part of the video)
 
-# Development 
+# Blockchain Development 
 
 # What is a Ethereum?
 https://www.youtube.com/watch?v=ptLfwp6JYgk
