@@ -1,4 +1,4 @@
-# Understanding Blockchain*
+# Understanding Blockchain
 This is the guide to learning the basic fundamentals of Blockchain development and understanding. 
 
 
@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=bBC-nXj3Ng4
 # Future of Blockchain and use cases
 https://www.youtube.com/watch?v=sDNN0uH2Z3o (You can skip the introductory part of the video)
 
-# Development *
+# Development 
 
-# What is a Ethereum
+# What is a Ethereum?
 https://www.youtube.com/watch?v=ptLfwp6JYgk
 
-# What is a Smart Contract
+# What is a Smart Contract?
 https://www.youtube.com/watch?v=ZE2HxTmxfrI
 
 # ERC20 and ERC721 Standars
@@ -34,7 +34,7 @@ https://cryptozombies.io/
 https://ipfs.io/ 
 
 
-# Finance * 
+# Finance 
 
 # Coinmarketcap (To see price fluctioations of coins)
 https://coinmarketcap.com/
