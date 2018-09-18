@@ -2,7 +2,7 @@
 This is the guide to learning the basic fundamentals of Blockchain development. 
 
 This guide is devided into three main parts, "Blockchian Fundamentals", "Blockchain Development" and "Finance".
-Please feel free to add more content or add a short description.
+Please feel free to add more content or add a short description. Any questions can be sent to luis.gonzalez@minerva.kgi.edu.
 
 
 # Cryptography
